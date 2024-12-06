@@ -35,7 +35,7 @@ javascript:(function() {
                     <h3 style='margin: 0; font-size: 18px; color: white;'>JV SYSTEM</h3>
                     <div style='font-size: 12px; color: #00FF00; margin-top: 3px; display: flex; align-items: center; justify-content: center;'>
                         <i class="fab fa-instagram" style="margin-right: 5px; color: #00FF00;"></i>
-                        bot00blaze
+                        joaovitorp2004
                     </div>
                     <div id="hackingMessage" style="font-size: 14px; color: #00FF00; margin-top: 10px;">Bem-vindo ao JV System</div>
                 </div>
@@ -174,7 +174,7 @@ javascript:(function() {
         setInterval(() => {
             play();
             status = "rolling"; // Pronto para o próximo giro
-        }, 1000 * 10); // Muda o status e faz uma nova previsão a cada 13 segundos
+        }, 1000 * 15); // Muda o status e faz uma nova previsão a cada 13 segundos
     }
 
     // Inicia o ciclo de previsões
